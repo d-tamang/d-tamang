@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, welcome to my GitHub! 😄
+## Hi there, welcome to my GitHub! 👩‍💻
 
 
 I am a former tech sales-woman turned full stack software developer.
