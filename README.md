@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 
 ## Hi there, welcome to my GitHub! 👩‍💻
 
+- Graduate of App Academy and UCSB.
+- Current TA at App Academy, helping students learn full stack web development.
 
-I am a former tech sales-woman turned full stack software developer.
-
-
-I recently graduated from App Academy, a rigorous 16 week software engineering bootcamp focused on full stack web development, where I completed 3 projects: a clone, an original single-page website, and a web game. I love the challenge and creative freedom that come with coding and am always striving to learn more. Currently, I'm learning Python and React Native.
-
+I love the challenge and creative freedom that come with coding and am always striving to learn more. Currently, I'm learning Python and React Native.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/disneetamang/) or browse my [personal website](https://d-tamang.github.io/disnee-tamang/) to check out my projects!
-
 
 Or, just click on the repo's below. You know the drill. 😉
