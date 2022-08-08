@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - Graduate of App Academy and UCSB.
 - Current TA at App Academy, helping students learn full stack web development.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/disneetamang/) or browse my [personal website](https://d-tamang.github.io/disnee-tamang/) to check out my projects!
-
-Or, just click on the repo's below. You know the drill. 😉
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/disneetamang/) or click on the repo's below to see the different projects I've completed. 😄
