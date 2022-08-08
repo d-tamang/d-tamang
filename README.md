@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - Graduate of App Academy and UCSB.
 - Current TA at App Academy, helping students learn full stack web development.
 
-I love the challenge and creative freedom that come with coding and am always striving to learn more. Currently, I'm learning Python and React Native.
-
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/disneetamang/) or browse my [personal website](https://d-tamang.github.io/disnee-tamang/) to check out my projects!
 
 Or, just click on the repo's below. You know the drill. 😉
