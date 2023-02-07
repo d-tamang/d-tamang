@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ## Hi there, welcome to my GitHub! 👩‍💻
 
 - Graduate of App Academy and UCSB.
-- Current TA at App Academy, helping students learn full stack web development.
+- Current Software Engineer at Bloomberg in NYC.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/disneetamang/) or click on the repo's below to see the different projects I've completed. 😄
